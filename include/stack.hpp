@@ -151,3 +151,7 @@ void stack<T>::print()
 {
 	std::cout << array_[count_ - 1];
 }
+
+
+
+
